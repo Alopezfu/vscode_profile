@@ -5,3 +5,4 @@ My personal Visual Studio Code Settings😁
 | ------ | ------ |
 | Dracula | https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula |
 | Fluent Icons | https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons |
+| Font: JetBrains Mono | https://www.jetbrains.com/es-es/lp/mono/ |
